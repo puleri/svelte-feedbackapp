@@ -4,7 +4,7 @@
 
 
 </script>
-
+⬆️
 {#each feedback as fb (fb.id)}
   <FeedbackItem item={fb} />
 {/each}
